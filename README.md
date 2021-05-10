@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VanillaCoca - Mingze Sun
-- 👀 I’m interested in Vanilla Coca
-- 🌱 I’m currently learning PHP Mysql Matlab
+- 🌱 I’m currently learning Mysql Matlab R
 - 💞️ I’m looking to collaborate on Tony Feng, Arthur Yu
-- 📫 How to reach me email: 15ms172@queensu.ca
+- 📫 How to reach me email: wezvwolf@gmail.com || 15ms172@queensu.ca
 
 <!---
 VanillaCoca/VanillaCoca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
