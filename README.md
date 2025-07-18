@@ -1,2 +1,2 @@
-@VanillaCoca - Mingze Sun
-email: wezvwolf@gmail.com || sun@tensorhalo.com
+@VanillaCoca - Sean Sun
+email: sean@deephome.ca
