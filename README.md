@@ -1,2 +1,2 @@
 @VanillaCoca - Sean Sun
-email: sean@deephome.ca
+email: seanmingze@gmail.com
